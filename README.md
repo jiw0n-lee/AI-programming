@@ -5,9 +5,9 @@ Python으로 만든 간단한 클릭 반응 게임입니다.
 
 ## Demo
 
-![Demo](demo-successful-play.gif)
+![Demo](monsterball-game/demo-successful-play.gif)
 
-![Cheat Demo](demo-using-cheat.gif)
+![Cheat Demo](monsterball-game/demo-using-cheat.gif)
 
 ## 게임 설명
 
