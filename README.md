@@ -34,3 +34,9 @@ Enter 키를 누르면 게임이 시작됩니다.
 
 ```bash
 python main.py
+
+## Demo
+
+![Demo](demo-successful-play.gif)
+
+![Cheat Demo](demo-using-cheat.gif)
